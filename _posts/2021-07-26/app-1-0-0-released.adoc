@@ -1,0 +1,14 @@
+---
+layout: post
+title: 'App 1.0.0 released'
+date: 2021-07-26
+tags: release
+synopsis: 1.0.0 is the latest release.
+author: duke
+---
+
+We just released App 1.0.0 with a new round of bugfixes and documentation improvements.
+
+== Full changelog
+
+You can get https://github.com/aalmiray/app/releases/tag/v1.0.0[the full changelog of 1.0.0 on GitHub].
